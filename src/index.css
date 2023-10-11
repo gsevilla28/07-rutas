@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.activado{
+  font-weight: bold;
+  color: lightblue;
+  text-decoration: none;
+  font-size: 18px;
+}
